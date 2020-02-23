@@ -1,2 +1,2 @@
 # goddardhub.github.io
-The Official GoddardHub page
+Fake website made by Skids (Nullex, XEN)
